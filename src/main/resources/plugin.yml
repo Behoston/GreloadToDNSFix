@@ -1,4 +1,4 @@
 name: GreloadToDNSFix
-main: pl.behoston.greloadtodnsfixfix.GreloadToDNSFixPlugin
+main: pl.behoston.greloadtodnsfix.GreloadToDNSFixPlugin
 version: 1.0
 author: Behoston
